@@ -2,6 +2,10 @@
 
 A lightweight command-line tool that scaffolds a new Python project directory with a starter `main.py` file.
 
+## Demo
+
+![Project generator demo](assets/project1_demo.png)
+
 ## What It Does
 - Prompts the user for a project name
 - Prevents overwriting existing directories
